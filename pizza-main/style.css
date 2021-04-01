@@ -7,8 +7,6 @@
 	
 */
 
-@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
-
 body {
   background-color: #5f5345;
 }
@@ -37,7 +35,7 @@ img {
 }
  
 h1 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Helvetica', sans-serif;
   font-size: 64px;
   color: #8b1b00;
 }
